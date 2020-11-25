@@ -1,0 +1,18 @@
+title: 'Tech Craft'
+author: Anders Schneiderman
+email: your-email@domain.com
+description:  Description of this site
+
+# Menu data for sitewide navigation
+navigation_links:
+  - name: About
+    link: 'about/'
+  - name: History
+    link: 'history/'
+  - name: Strategy
+    link: 'strategy/'
+  - name: Resources
+    link: 'resources/'
+  - name: Makers All
+    link: 'https://makersall.org/'
+
