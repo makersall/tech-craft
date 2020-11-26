@@ -2,7 +2,7 @@
 layout: content
 title: Lessons From the Past
 permalink: /history/
-image: brushes-wood-1323248-pxh.jpg
+image: outdoor-wood-vintage-antique-countryside-texture-1002518.jpg
 ---
 
 

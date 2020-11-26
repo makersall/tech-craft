@@ -2,7 +2,7 @@
 layout: content
 title: Resources
 permalink: /resources/
-image: gears-1170441-pxh.jpg
+image: car-vehicle-auto-colorful-sedan-painted-1325646.jpg
 ---
 
 { NOTE: right now, just a notes dump }
